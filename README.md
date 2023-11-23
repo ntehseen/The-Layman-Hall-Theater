@@ -10,8 +10,6 @@ This project showcases the schedule for Lyman Hall Theater in September. The web
 
 ![Website Preview](preview.png)
 
-> Note: Replace `preview.png` with the actual file name of your website preview image. If you have a live preview, you can include a link to it here.
-
 ## Features
 
 - **Event Information:** Details about Broadway performances, jazz concerts, science fiction stage productions, and lecture series.
